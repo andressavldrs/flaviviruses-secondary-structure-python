@@ -1,0 +1,90 @@
+
+############################  RNAz 2.1  ##############################
+
+ Sequences: 6
+ Columns: 94
+ Reading direction: forward
+ Mean pairwise identity:  89.38
+ Shannon entropy: 0.18284
+ G+C content: 0.39873
+ Mean single sequence MFE: -19.72
+ Consensus MFE: -15.82
+ Energy contribution: -16.60
+ Covariance contribution:   0.78
+ Combinations/Pair:   1.08
+ Mean z-score:  -1.49
+ Structure conservation index:   0.80
+ Background model: dinucleotide
+ Decision model: sequence based alignment quality
+ SVM decision value:  -0.14
+ SVM RNA-class probability: 0.427267
+ Prediction: OTHER
+
+######################################################################
+
+>GU131940/0-120
+GACAAGAACAGUUUCAACUCGGAAGCUUGCUUAACGUAGUGCUGACAGUUUUUUAUUAGAGAGCAGAUUUAAGAUGAUCACCCAACGAAAAAAG
+...........((((.....(..(((((((.....)))).)))..).((((((.....)))))).((((......)))).......)))).... ( -13.60, z-score =   0.82, R)
+>KX380840/0-120
+-----------UUUCGACUCGGAAGCUUGCUUAACGUAGUACUGACAG-UUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGAAAAAAG
+-----------((((((((((.(((....)))..)).))).......(-(((((((((((((.....))))))))))).)))...))))).... ( -19.40, z-score =  -1.82, R)
+>KX380839/0-120
+-----------UUUCGACUCGGAAGCUUGCUUAACGUAGUACUGACAG-UUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGAAAAAAG
+-----------((((((((((.(((....)))..)).))).......(-(((((((((((((.....))))))))))).)))...))))).... ( -19.40, z-score =  -1.82, R)
+>KF954947/0-120
+-----------UUUCGACUCGGAAGCUUGCUUAACGUAGUGCUAACAGUAUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGGAAGAAG
+-----------((((((((.(..(((((((.....)))).)))..))))..(((((((((((.....))))))))))).......))))).... ( -21.50, z-score =  -1.99, R)
+>KX380842/0-120
+-----------UUUCGACUCGGAAGCUUGCUUAACGUAGUGCUAACAGUUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGGAAGAAG
+-----------(((((....(..(((((((.....)))).)))..).(((.(((((((((((.....))))))))))).)))...))))).... ( -22.50, z-score =  -2.13, R)
+>KU509278/0-120
+-----------AUUCGACUCGGAAGCUUGCUUAACGUAGUGCUAACAGUUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGGAAGAAG
+-----------.((((....(..(((((((.....)))).)))..).(((.(((((((((((.....))))))))))).)))...))))..... ( -21.90, z-score =  -1.99, R)
+>consensus
+___________UUUCGACUCGGAAGCUUGCUUAACGUAGUGCUAACAGUUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGAAAAAAG
+...........(((((....(..(((((((.....)))).)))..).....(((((((((((.....))))))))))).......))))).... (-15.82 = -16.60 +   0.78) 
+
+############################  RNAz 2.1  ##############################
+
+ Sequences: 6
+ Columns: 96
+ Reading direction: forward
+ Mean pairwise identity:  88.30
+ Shannon entropy: 0.20283
+ G+C content: 0.39626
+ Mean single sequence MFE: -18.52
+ Consensus MFE: -14.60
+ Energy contribution: -14.68
+ Covariance contribution:   0.09
+ Combinations/Pair:   1.14
+ Mean z-score:  -0.72
+ Structure conservation index:   0.79
+ Background model: dinucleotide
+ Decision model: sequence based alignment quality
+ SVM decision value:  -1.65
+ SVM RNA-class probability: 0.038988
+ Prediction: OTHER
+
+######################################################################
+
+>GU131940/23-143
+ACAAG-AACAGUUUCAACUCGG-AAGCUUGCUUAACGUAGUGCUGACAG-UUUUUUAUUAGAGAGCAGAUUUAAGAUGAUCACCCAACGAAAAAAG
+.....-.....((((.....(.-.(((((((.....)))).)))..).(-(((((.....)))))).((((......)))).......)))).... ( -13.60, z-score =   0.70, R)
+>HQ705615/23-143
+ACAAG-AACAGUUUCGACUCGG-AAGCUUGCUUAACGUGGUGCUAACAG-UUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAAC------------
+..(((-...((((((......)-)))))..)))...............(-((.(((((((((((.....))))))))))).)))------------ ( -19.00, z-score =  -0.78, R)
+>HM631863/23-143
+ACAAG-AACAGUUUCGACUCGGAAAGCUUGCUUAACGUAGUGCUAACAG-UUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACG-------
+.....-....(((...(((((..(((....)))..)).)))...))).(-((.(((((((((((.....))))))))))).))).....------- ( -20.80, z-score =  -1.51, R)
+>HM181977/23-143
+ACAAGAAACAGUUUCGACUCGG-AAGCUUGCUUAACGUAGUGCUAACAG--UUUUUAUUAGAGAGCAGAUCUCUGAUGAACAACCAACGG------
+..(((....((((((......)-)))))..)))..(((.((....)).(--(((((((((((((.....))))))))))).)))..))).------ ( -20.10, z-score =  -1.09, R)
+>KU216208/23-143
+ACAAG-AACAGUUUCGACUCGG-AAGCUUGCUUAACGUAGUGCUAACAGUUUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAAC------------
+..(((-(((((((((......)-))))).(((......))).......))))))((((((((((.....)))))))))).....------------ ( -18.80, z-score =  -0.87, R)
+>KU216209/23-143
+ACAAG-AACAGUUUCGACUCGG-AAGCUUGCUUAACGUAGUGCUAACAGUUUUUUUAUUAGAGAGCAGAUCUCUGAUGAACA--------------
+..(((-(((((((((......)-))))).(((......))).......))))))((((((((((.....))))))))))...-------------- ( -18.80, z-score =  -0.79, R)
+>consensus
+ACAAG_AACAGUUUCGACUCGG_AAGCUUGCUUAACGUAGUGCUAACAG_UUUUUUAUUAGAGAGCAGAUCUCUGAUGAACAAC____________
+..........(((...(((((...((....))...)).)))...)))......(((((((((((.....)))))))))))................ (-14.60 = -14.68 +   0.09) 
