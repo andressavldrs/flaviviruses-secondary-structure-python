@@ -1,0 +1,54 @@
+
+############################  RNAz 2.1  ##############################
+
+ Sequences: 9
+ Columns: 150
+ Reading direction: forward
+ Mean pairwise identity:  97.11
+ Shannon entropy: 0.05811
+ G+C content: 0.58148
+ Mean single sequence MFE: -58.03
+ Consensus MFE: -54.47
+ Energy contribution: -54.43
+ Covariance contribution:  -0.03
+ Combinations/Pair:   1.06
+ Mean z-score:  -1.35
+ Structure conservation index:   0.94
+ Background model: dinucleotide
+ Decision model: sequence based alignment quality
+ SVM decision value:   0.36
+ SVM RNA-class probability: 0.658807
+ Prediction: RNA
+
+######################################################################
+
+>KU955592
+GCAUCAAUUUCAAUGUUGUCAGGCCUGCUAGUCAGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAACCCCCCCAGGAGAAGCUGGGAAACCAAGCUCAUAGUCAGGCCGAUAACGCCAUGGCACGGAAAAAGCCAUGCUGCCUGUGAGC
+((.(((........((((((.(((((((((....((.(((((((.....)))))))))..((((.........)))).((.(((((....)).))))).))).))))))))))))((((((((.........))))))..))...))))) ( -54.60, z-score =  -1.29, R)
+>AY632535
+GCACCAAUUUUAGUGUUGUCAGGCCUGCUAGUCAGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAACCCCCCCAGGAGAAGCUGGGAAACCAAGCUCAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+(((.........(((((.((.(((((((((....((.(((((((.....)))))))))..((((.........)))).((.(((((....)).))))).))).)))))))).)))))((((((.(....)..)))))).)))........ ( -56.70, z-score =  -1.38, R)
+>KX198135
+GCACCAAUCUUAAUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCUAUAGUCAGGCCGAGAGCGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+.(((..........(((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).)).(((((....)).)))...))).)))))))).)))((((((((.(....)..))))))..))..)))... ( -56.90, z-score =  -0.77, R)
+>KX262887
+GCACCAAUCUUAACGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCUAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+(((..........((((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).)).(((((....)).)))...))).)))))))).)))).((((((.(....)..)))))).)))........ ( -57.50, z-score =  -1.29, R)
+>KX051563
+GCACCAAUCUUAAUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCUAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+.(((..........(((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).)).(((((....)).)))...))).)))))))).)))((((((((.(....)..))))))..))..)))... ( -56.90, z-score =  -1.17, R)
+>KY553111
+GCACCAAUCUUAGUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCUAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+(((.........(((((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).)).(((((....)).)))...))).)))))))).)))))((((((.(....)..)))))).)))........ ( -59.10, z-score =  -1.42, R)
+>KU681081
+GCACCAAUCUUAGUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAGGCUGGGAAACCAAGCCCAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+(((.........(((((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).))((((((....)).))))..))).)))))))).)))))((((((.(....)..)))))).)))........ ( -62.40, z-score =  -1.82, R)
+>KX377336
+GCACCAAUUUUAGUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCCAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+(((.........(((((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).)).(((((....)).)))...))).)))))))).)))))((((((.(....)..)))))).)))........ ( -59.10, z-score =  -1.58, R)
+>KX694532
+GCACCAAUCUUAGUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCCAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+(((.........(((((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(......))))).)).(((((....)).)))...))).)))))))).)))))((((((.(....)..)))))).)))........ ( -59.10, z-score =  -1.39, R)
+>consensus
+GCACCAAUCUUAGUGUUGUCAGGCCUGCUAGUCAGCCACAGCUUGGGGAAAGCUGUGCAGCCUGUGACCCCCCCAGGAGAAGCUGGGAAACCAAGCCCAUAGUCAGGCCGAGAACGCCAUGGCACGGAAGAAGCCAUGCUGCCUGUGAGC
+.(((..........(((.((.(((((((((.((.((.(((((((.....)))))))))..((((.(.....).)))).)).(((((....)).)))...))).)))))))).)))((((((((.(....)..))))))..))..)))... (-54.47 = -54.43 +  -0.03) 

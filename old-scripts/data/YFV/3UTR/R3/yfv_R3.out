@@ -1,0 +1,39 @@
+
+############################  RNAz 2.1  ##############################
+
+ Sequences: 4
+ Columns: 126
+ Reading direction: forward
+ Mean pairwise identity:  98.28
+ Shannon entropy: 0.02725
+ G+C content: 0.46429
+ Mean single sequence MFE: -44.40
+ Consensus MFE: -43.76
+ Energy contribution: -43.82
+ Covariance contribution:   0.06
+ Combinations/Pair:   1.03
+ Mean z-score:  -3.33
+ Structure conservation index:   0.99
+ Background model: dinucleotide
+ Decision model: sequence based alignment quality
+ SVM decision value:   3.08
+ SVM RNA-class probability: 0.997314
+ Prediction: RNA
+
+######################################################################
+
+>FJ654700.1
+ACAAAUAGUGGGACCAUAUUGACGCCAGGGAAAGACCGGAGUGGUUCUCUGCUUUUCCUCCAGAGGUCUGUGAGCACAAUUUGCUCAAGAAUAAGCAGACCUUUGGAUGACAAACACAAAACCUCU
+.......(((.................(((((((..(((((.....))))))))))))((((((((((((((((((.....)))))........))))))))))))).......)))......... ( -41.90, z-score =  -2.83, R)
+>AF052446.1
+ACAAAUAGUGGGACCAUAUUGACGCCAGGGAAAGACCGGAGUGGUUCUCUGCUUUUCCUCCAGAGGUCUGUGAGCACAGUUUGCUCAAGAAUAAGCAGACCUUUGGAUGACAAACACAAAACCACU
+......(((((................(((((((..(((((.....))))))))))))((((((((((((((((((.....)))))........)))))))))))))..............))))) ( -45.10, z-score =  -3.53, R)
+>AY640589.1
+ACAAAUAGUGGGACCAUAUUGACGCCAGGGAAAGACCGGAGUGGUUCUCUGCUUUUCCUCCAGGGGUCUGUGAGCACAGUUUGCUCAAGAAUAAGCAGACCUUUGGAUGAAAAACACAAAACCACU
+......(((((............((.((((((..((....))..))))))))(((((.((((((((((((((((((.....)))))........))))))))))))).)))))........))))) ( -44.90, z-score =  -3.14, R)
+>GQ379163.1
+ACAAAUAGUGGGACCAUAUUGACGCCAGGGAAAGACCGGAGUGGUUCUCUGCUUUUCCUCCAGAGGUCUGUGAGCACAGUUUGCUCAAGAAUAAGCAGACCUUUGGAUGAAAAACACAAAACCACU
+......(((((............((.((((((..((....))..))))))))(((((.((((((((((((((((((.....)))))........))))))))))))).)))))........))))) ( -45.70, z-score =  -3.84, R)
+>consensus
+ACAAAUAGUGGGACCAUAUUGACGCCAGGGAAAGACCGGAGUGGUUCUCUGCUUUUCCUCCAGAGGUCUGUGAGCACAGUUUGCUCAAGAAUAAGCAGACCUUUGGAUGAAAAACACAAAACCACU
+......(((((................(((((((..(((((.....))))))))))))((((((((((((((((((.....)))))........)))))))))))))..............))))) (-43.76 = -43.82 +   0.06) 

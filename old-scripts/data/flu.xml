@@ -1,0 +1,5790 @@
+<Results>
+
+<Item>
+  <accession>LC069810</accession>
+  <length>10623</length>
+  <type>4</type>
+  <country>Japan</country>
+  <host>Homo sapiens</host>
+  <collection_date>2015</collection_date>
+  <infection_date/>
+  <release_date>2016/02/02</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 genomic RNA, complete genome, strain: D4/Hu/India/NIID48/2009</name>
+  <gi>985480708</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|LC069810:88-10251</old_cds_location>
+</Item>
+<Item>
+  <accession>KP188558</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/14</collection_date>
+  <infection_date/>
+  <release_date>2016/07/15</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate BR/SJRP/505/2012, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>874527248</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP188558:89-10252</old_cds_location>
+</Item>
+<Item>
+  <accession>KP188560</accession>
+  <length>10576</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/02</collection_date>
+  <infection_date/>
+  <release_date>2016/07/15</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate BR/SJRP/514/2012, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>874527252</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP188560:90-10253</old_cds_location>
+</Item>
+<Item>
+  <accession>KP188562</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/12/10</collection_date>
+  <infection_date/>
+  <release_date>2016/07/15</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate BR/SJRP/580/2012, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>874527256</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP188562:148-10311</old_cds_location>
+</Item>
+<Item>
+  <accession>KP188563</accession>
+  <length>10654</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2013/01/07</collection_date>
+  <infection_date/>
+  <release_date>2016/07/15</release_date>
+  <name>Dengue virus 4 isolate BR/SJRP/610/2013, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>874527258</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP188563:48-10211</old_cds_location>
+</Item>
+<Item>
+  <accession>KP188564</accession>
+  <length>10618</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2013/01/10</collection_date>
+  <infection_date/>
+  <release_date>2016/07/15</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate BR/SJRP/614/2013, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>874527260</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP188564:148-10311</old_cds_location>
+</Item>
+<Item>
+  <accession>KT794007</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/03/07</collection_date>
+  <infection_date/>
+  <release_date>2016/03/16</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate BR005AM_2011, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>1004605553</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KT794007:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JN983813</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/09/08</collection_date>
+  <infection_date/>
+  <release_date>2012/01/22</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate Br246RR/10, complete genome</name>
+  <gi>372290533</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN983813:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KY451945</accession>
+  <length>10616</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <host>Aedes aegypti</host>
+  <collection_date>2013/06</collection_date>
+  <infection_date/>
+  <release_date>2017/08/13</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate CTI2-13, complete genome</name>
+  <gi>1229035870</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KY451945:100-10263</old_cds_location>
+</Item>
+<Item>
+  <accession>KF041260</accession>
+  <length>10652</length>
+  <type>4</type>
+  <country>Pakistan</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009</collection_date>
+  <infection_date/>
+  <release_date>2013/12/23</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate D4/Pakistan/150/2009, complete genome</name>
+  <gi>567319947</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KF041260:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ024476</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>1997</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V1600/1997, complete genome</name>
+  <gi>197310739</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ024476:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868579</accession>
+  <length>10593</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3406/2001, complete genome</name>
+  <gi>259500460</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868579:68-10231</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868580</accession>
+  <length>10598</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3407/2001, complete genome</name>
+  <gi>259500462</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868580:73-10236</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868581</accession>
+  <length>10592</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3408/2001, complete genome</name>
+  <gi>259500464</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868581:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868582</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3409/2001, complete genome</name>
+  <gi>259500466</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868582:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868583</accession>
+  <length>10551</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2004</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3410/2004, complete genome</name>
+  <gi>259500468</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868583:66-10229</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868584</accession>
+  <length>10552</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2004</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3411/2004, complete genome</name>
+  <gi>259500470</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868584:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868585</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2005</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/CO/BID-V3412/2005, complete genome</name>
+  <gi>259500472</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868585:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ922560</accession>
+  <length>10739</length>
+  <type>4</type>
+  <country>India</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009</collection_date>
+  <infection_date/>
+  <release_date>2013/04/30</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DENV-4/IND/0952326/2009, complete genome</name>
+  <gi>428625153</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ922560:98-10261</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ922558</accession>
+  <length>10626</length>
+  <type>4</type>
+  <country>India</country>
+  <host>Homo sapiens</host>
+  <collection_date>1962</collection_date>
+  <infection_date/>
+  <release_date>2013/04/30</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DENV-4/IND/624000/1962, complete genome</name>
+  <gi>428625149</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ922558:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ922559</accession>
+  <length>10616</length>
+  <type>4</type>
+  <country>India</country>
+  <host>Homo sapiens</host>
+  <collection_date>1979</collection_date>
+  <infection_date/>
+  <release_date>2013/04/30</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DENV-4/IND/793679/1979, complete genome</name>
+  <gi>428625151</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ922559:82-10245</old_cds_location>
+</Item>
+<Item>
+  <accession>KP406806</accession>
+  <length>10664</length>
+  <type>4</type>
+  <country>South Korea</country>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2015/10/12</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DENV-4/KBPV-VR-31, complete genome</name>
+  <gi>937349153</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP406806:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KF955510</accession>
+  <length>10586</length>
+  <type>4</type>
+  <country>Cambodia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2002</collection_date>
+  <infection_date/>
+  <release_date>2014/01/19</release_date>
+  <name>Dengue virus 4 isolate DENV-4/KH/BID-V2055/2002, complete genome</name>
+  <gi>573974498</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KF955510:59-10222</old_cds_location>
+</Item>
+<Item>
+  <accession>KF955511</accession>
+  <length>9692</length>
+  <type>4</type>
+  <country>Cambodia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2005</collection_date>
+  <infection_date/>
+  <release_date>2014/01/19</release_date>
+  <name>Dengue virus 4 isolate DENV-4/KH/BID-V2056/2005, partial genome</name>
+  <gi>573974500</gi>
+  <genome_region>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KF955511:1-9327</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868594</accession>
+  <length>10607</length>
+  <type>4</type>
+  <country>Philippines</country>
+  <host>Homo sapiens</host>
+  <collection_date>1956</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/PH/BID-V3361/1956, complete genome</name>
+  <gi>259496218</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868594:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ024424</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V1082/1998, complete genome</name>
+  <gi>197310717</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ024424:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>EU854295</accession>
+  <length>10566</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1986</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V1083/1986, complete genome</name>
+  <gi>197310671</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EU854295:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>EU854296</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V1093/1998, complete genome</name>
+  <gi>197310673</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EU854296:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>EU854297</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V1094/1998, complete genome</name>
+  <gi>197310675</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EU854297:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199878</accession>
+  <length>10592</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1994</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2429/1994, complete genome</name>
+  <gi>239840413</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199878:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199879</accession>
+  <length>10593</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1994</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2430/1994, complete genome</name>
+  <gi>239840415</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199879:68-10231</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199880</accession>
+  <length>10590</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1995</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2431/1995, complete genome</name>
+  <gi>239840417</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199880:65-10228</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ252675</accession>
+  <length>10591</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1995</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2432/1995, complete genome</name>
+  <gi>239840463</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ252675:66-10229</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ810417</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1995</collection_date>
+  <infection_date/>
+  <release_date>2009/03/31</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2433/1995, complete genome</name>
+  <gi>225690903</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ810417:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ850057</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1995</collection_date>
+  <infection_date/>
+  <release_date>2009/03/31</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2434/1995, complete genome</name>
+  <gi>225690913</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ850057:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199881</accession>
+  <length>10590</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1996</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2435/1996, complete genome</name>
+  <gi>239840419</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199881:65-10228</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199882</accession>
+  <length>10592</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1996</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2436/1996, complete genome</name>
+  <gi>239840421</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199882:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199883</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1996</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2437/1996, complete genome</name>
+  <gi>239840423</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199883:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199884</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1996</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2438/1996, complete genome</name>
+  <gi>239840425</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199884:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199885</accession>
+  <length>10590</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1996</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2439/1996, complete genome</name>
+  <gi>239840427</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199885:65-10228</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ850058</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1996</collection_date>
+  <infection_date/>
+  <release_date>2009/03/31</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2440/1996, complete genome</name>
+  <gi>225690915</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ850058:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882595</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2441/1998, complete genome</name>
+  <gi>228538944</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882595:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882596</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2442/1998, complete genome</name>
+  <gi>228538976</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882596:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ850059</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/03/31</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2443/1998, complete genome</name>
+  <gi>225690917</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ850059:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882597</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2444/1998, complete genome</name>
+  <gi>228539051</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882597:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882598</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2445/1998, complete genome</name>
+  <gi>228539083</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882598:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882599</accession>
+  <length>10595</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1999</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2446/1999, complete genome</name>
+  <gi>228539113</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882599:70-10233</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882600</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1999</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2447/1999, complete genome</name>
+  <gi>228539144</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882600:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882601</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1999</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V2448/1999, complete genome</name>
+  <gi>228539176</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882601:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ226067</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>USA</country>
+  <host>Homo sapiens</host>
+  <collection_date>1994</collection_date>
+  <infection_date/>
+  <release_date>2008/11/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/US/BID-V860/1994, complete genome</name>
+  <gi>209976513</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ226067:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868642</accession>
+  <length>10595</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1153/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>259496310</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868642:70-10233</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868643</accession>
+  <length>10593</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1154/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>259496312</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868643:68-10231</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868644</accession>
+  <length>10637</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1155/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>259496314</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868644:112-10275</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ868645</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/09/30</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1156/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>259496316</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ868645:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>EU854299</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1157/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>197310679</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EU854299:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ182016</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2008/09/23</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1158/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>204305608</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ182016:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>EU854300</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1159/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>197310681</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EU854300:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ182017</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2008/09/23</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1160/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>204305610</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ182017:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>EU854301</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2008/09/01</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V1161/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>197310683</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EU854301:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639736</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2163/1998, complete genome</name>
+  <gi>221070282</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639736:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639737</accession>
+  <length>10567</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2164/1998, complete genome</name>
+  <gi>221070284</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639737:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639738</accession>
+  <length>10566</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2165/1998, complete genome</name>
+  <gi>221070286</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639738:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639739</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2166/1998, complete genome</name>
+  <gi>221070288</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639739:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>JN819409</accession>
+  <length>10558</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1998</collection_date>
+  <infection_date/>
+  <release_date>2011/11/19</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2167/1998, complete genome</name>
+  <gi>356960959</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN819409:46-10209</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639742</accession>
+  <length>10593</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1999</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2170/1999, complete genome</name>
+  <gi>221070295</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639742:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639744</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1999</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2172/1999, complete genome</name>
+  <gi>221070299</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639744:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639745</accession>
+  <length>10566</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1999</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2173/1999, complete genome</name>
+  <gi>221070301</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639745:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ850095</accession>
+  <length>10558</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2000</collection_date>
+  <infection_date/>
+  <release_date>2009/03/31</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2176/2000, complete genome</name>
+  <gi>225691021</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ850095:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639748</accession>
+  <length>10551</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2000</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2177/2000, complete genome</name>
+  <gi>221070307</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639748:66-10229</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639764</accession>
+  <length>10566</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2194/2001, complete genome</name>
+  <gi>221070340</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639764:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ639773</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2009/01/26</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2206/2001, complete genome</name>
+  <gi>221070359</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ639773:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882580</accession>
+  <length>10596</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2489/2007, complete genome</name>
+  <gi>228538543</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882580:71-10234</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882581</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2490/2007, complete genome</name>
+  <gi>228538570</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882581:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882582</accession>
+  <length>10603</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2491/2007, complete genome</name>
+  <gi>228538606</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882582:78-10241</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882583</accession>
+  <length>10592</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2492/2007, complete genome</name>
+  <gi>228538644</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882583:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882584</accession>
+  <length>10595</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2493/2007, complete genome</name>
+  <gi>228538676</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882584:70-10233</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882585</accession>
+  <length>10594</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2494/2007, complete genome</name>
+  <gi>228538711</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882585:69-10232</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882586</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2495/2007, complete genome</name>
+  <gi>228538745</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882586:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882587</accession>
+  <length>10554</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2496/2007, complete genome</name>
+  <gi>228538774</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882587:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882588</accession>
+  <length>10594</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2497/2007, complete genome</name>
+  <gi>228538804</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882588:69-10232</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882589</accession>
+  <length>10595</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2498/2007, complete genome</name>
+  <gi>228538829</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882589:70-10233</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882590</accession>
+  <length>10594</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2499/2007, complete genome</name>
+  <gi>228538857</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882590:69-10232</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882591</accession>
+  <length>10593</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2500/2007, complete genome</name>
+  <gi>228538889</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882591:68-10231</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ882592</accession>
+  <length>10606</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2008</collection_date>
+  <infection_date/>
+  <release_date>2009/05/05</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2501/2008, complete genome</name>
+  <gi>228538919</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ882592:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ199876</accession>
+  <length>10595</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2009/06/17</release_date>
+  <name>Dengue virus 4 isolate DENV-4/VE/BID-V2610/2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>239840409</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ199876:70-10233</old_cds_location>
+</Item>
+<Item>
+  <accession>KP723482</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>China</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010</collection_date>
+  <infection_date/>
+  <release_date>2015/07/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DENV4/CN/GZ29/2010, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>891070675</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP723482:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>JN638570</accession>
+  <length>10650</length>
+  <type>4</type>
+  <country>Cambodia</country>
+  <host>Homo sapiens</host>
+  <disease>DF</disease>
+  <collection_date>2008</collection_date>
+  <infection_date/>
+  <release_date>2013/05/31</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DF patient, complete genome</name>
+  <gi>399148994</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN638570:115-10278</old_cds_location>
+</Item>
+<Item>
+  <accession>JN638571</accession>
+  <length>10656</length>
+  <type>4</type>
+  <country>Cambodia</country>
+  <host>Homo sapiens</host>
+  <disease>DHF</disease>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2013/05/31</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DHF patient, complete genome</name>
+  <gi>399148996</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN638571:115-10278</old_cds_location>
+</Item>
+<Item>
+  <accession>JN638572</accession>
+  <length>10656</length>
+  <type>4</type>
+  <country>Cambodia</country>
+  <host>Homo sapiens</host>
+  <disease>DSS</disease>
+  <collection_date>2008</collection_date>
+  <infection_date/>
+  <release_date>2013/05/31</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate DSS patient, complete genome</name>
+  <gi>399148998</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN638572:107-10270</old_cds_location>
+</Item>
+<Item>
+  <accession>JX024757</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/12</collection_date>
+  <infection_date/>
+  <release_date>2013/03/04</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate EHI310A129CY10, complete genome</name>
+  <isolation>cerebrospinal fluid</isolation>
+  <gi>444892652</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JX024757:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>JX024758</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/12</collection_date>
+  <infection_date/>
+  <release_date>2013/03/04</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate EHI310A129SY10, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>444892654</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JX024758:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ196849</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>China</country>
+  <host>Mus musculus</host>
+  <collection_date>1978</collection_date>
+  <infection_date/>
+  <release_date>2011/07/04</release_date>
+  <name>Dengue virus 4 isolate GD07/78 polyprotein gene, complete cds</name>
+  <isolation>brain</isolation>
+  <gi>224551985</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ196849:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>FJ196850</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>China</country>
+  <host>Aedes albopictus</host>
+  <collection_date>1990</collection_date>
+  <infection_date/>
+  <release_date>2011/07/04</release_date>
+  <name>Dengue virus 4 isolate GD09/90 polyprotein gene, complete cds</name>
+  <gi>224551987</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|FJ196850:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JF741967</accession>
+  <length>10631</length>
+  <type>4</type>
+  <country>China</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/09/26</collection_date>
+  <infection_date/>
+  <release_date>2012/03/31</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate GZ1D4, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>380307325</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JF741967:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ822247</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>China</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010</collection_date>
+  <infection_date/>
+  <release_date>2012/06/05</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate GZ30, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>389092828</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ822247:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>JF262782</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Haiti</country>
+  <host>Homo sapiens</host>
+  <collection_date>1994</collection_date>
+  <infection_date/>
+  <release_date>2012/01/08</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate Haiti73, complete genome</name>
+  <gi>366985799</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JF262782:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JF262783</accession>
+  <length>10659</length>
+  <type>4</type>
+  <country>India</country>
+  <host>Homo sapiens</host>
+  <collection_date>1961</collection_date>
+  <infection_date/>
+  <release_date>2012/01/08</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate INDIA G11337, complete genome</name>
+  <gi>366985801</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JF262783:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JF262781</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>1995</collection_date>
+  <infection_date/>
+  <release_date>2012/01/08</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate INH6412, complete genome</name>
+  <gi>366985797</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JF262781:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KU513441</accession>
+  <length>10650</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2013</collection_date>
+  <infection_date/>
+  <release_date>2016/06/20</release_date>
+  <name>Dengue virus 4 isolate LRV13/422, complete genome</name>
+  <gi>1036436304</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KU513441:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KC762694</accession>
+  <length>10636</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007/05/30</collection_date>
+  <infection_date/>
+  <release_date>2015/01/17</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate MKS-0033, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>573592436</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC762694:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KC762695</accession>
+  <length>10619</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007/07/09</collection_date>
+  <infection_date/>
+  <release_date>2015/01/17</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate MKS-0070, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>573592438</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC762695:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KC762696</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007/08/13</collection_date>
+  <infection_date/>
+  <release_date>2015/01/17</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate MKS-0252, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>573592440</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC762696:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KC762697</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007/12/11</collection_date>
+  <infection_date/>
+  <release_date>2015/01/17</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate MKS-0706, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>573592442</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC762697:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KC762698</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2008/04/30</collection_date>
+  <infection_date/>
+  <release_date>2015/01/17</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate MKS-2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>573592444</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC762698:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KC762699</accession>
+  <length>10641</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2008/03/28</collection_date>
+  <infection_date/>
+  <release_date>2015/01/17</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate MKS-2139, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>573592446</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC762699:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915085</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>New Caledonia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2008/02/20</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate NC08/200208-409 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895218</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915085:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915088</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>New Caledonia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009/04/02</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate NC09/020409-9266 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895224</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915088:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915086</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>New Caledonia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009/02/05</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate NC09/050209-1413 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895220</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915086:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915089</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>New Caledonia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009/09/23</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate NC09/230909-14518 polyprotein gene, complete cds</name>
+  <gi>425895226</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915089:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JF262780</accession>
+  <length>10667</length>
+  <type>4</type>
+  <country>Malaysia</country>
+  <host>Simiiformes</host>
+  <collection_date>1973</collection_date>
+  <infection_date/>
+  <release_date>2012/01/08</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate P73-1120, complete genome</name>
+  <gi>366985795</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JF262780:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JF262779</accession>
+  <length>10667</length>
+  <type>4</type>
+  <country>Malaysia</country>
+  <host>Simiiformes</host>
+  <collection_date>1975</collection_date>
+  <infection_date/>
+  <release_date>2012/01/08</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate P75-514, complete genome</name>
+  <gi>366985793</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JF262779:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915083</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>French Polynesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009/04/08</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate PF09/080409-93 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895214</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915083:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915082</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>French Polynesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009/03/23</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate PF09/230309-126 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895212</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915082:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915081</accession>
+  <length>10572</length>
+  <type>4</type>
+  <country>French Polynesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009/01/29</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate PF09/290109-69 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895210</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915081:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ915084</accession>
+  <length>10573</length>
+  <type>4</type>
+  <country>French Polynesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/06/15</collection_date>
+  <infection_date/>
+  <release_date>2013/05/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate PF10/150610-28 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>425895216</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ915084:63-10226</old_cds_location>
+</Item>
+<Item>
+  <accession>KX224312</accession>
+  <length>10652</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2014</collection_date>
+  <infection_date/>
+  <release_date>2016/06/23</release_date>
+  <genotype>DENV-4</genotype>
+  <name>Dengue virus 4 isolate SG(EHI)D4/02990Y14, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>1171915277</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KX224312:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KY921910</accession>
+  <length>10602</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2016/01</collection_date>
+  <infection_date/>
+  <release_date>2017/05/06</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate SG(EHI)D4/04645Y16, complete genome</name>
+  <gi>1188238211</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KY921910:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KY921909</accession>
+  <length>10605</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2016/03</collection_date>
+  <infection_date/>
+  <release_date>2017/05/06</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 isolate SG(EHI)D4/09291Y16, complete genome</name>
+  <gi>1188238209</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KY921909:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KP792537</accession>
+  <length>10651</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/06</collection_date>
+  <infection_date/>
+  <release_date>2015/06/15</release_date>
+  <name>Dengue virus 4 isolate SG(EHI)D4/25178Y11, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>1171915299</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP792537:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KU513442</accession>
+  <length>10649</length>
+  <type>4</type>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2016/06/20</release_date>
+  <name>Dengue virus 4 isolate TVP/360, complete genome</name>
+  <gi>1036436306</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KU513442:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KM190936</accession>
+  <length>10592</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <host>Homo sapiens</host>
+  <collection_date>2006/05/26</collection_date>
+  <infection_date/>
+  <release_date>2015/05/31</release_date>
+  <name>Dengue virus 4 isolate VIROAF8, complete genome</name>
+  <gi>667668754</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KM190936:67-10230</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ160504</accession>
+  <length>10650</length>
+  <type>4</type>
+  <country>Sri Lanka</country>
+  <host>Homo sapiens</host>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2014/03/31</release_date>
+  <name>Dengue virus 4 isolate rDENV4, complete genome</name>
+  <gi>597960705</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ160504:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>GU289913</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Colombia</country>
+  <host>Homo sapiens</host>
+  <collection_date>1982</collection_date>
+  <infection_date/>
+  <release_date>2009/12/17</release_date>
+  <genotype>dengue 4</genotype>
+  <name>Dengue virus 4 strain 341750, complete genome</name>
+  <gi>280987259</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GU289913:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579243</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/28</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR12_TVP17898/2012 isolate serum_12, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688441998</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579243:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579244</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/30</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR20_TVP17906/2012 isolate serum_20, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442000</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579244:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579245</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/30</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR23_TVP17909/2012 isolate serum_23, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442002</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579245:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579246</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/19</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR24_TVP17910/2012 isolate serum_24, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442004</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579246:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579247</accession>
+  <length>10650</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/12</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR27_TVP17913/2012 isolate serum_27, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442006</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579247:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579248</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/19</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR28_TVP17914/2012 isolate serum_28, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442008</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579248:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579240</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/23</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR2_TVP17888/2012 isolate serum_2, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688441990</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579240:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596658</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/20</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR33_TVP17919/2012 isolate serum_33, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442057</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596658:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596659</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/30</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR35_TVP17921/2012 isolate serum_35, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442055</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596659:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596660</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/03</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR40_TVP17926/2012 isolate serum_40, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442053</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596660:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596661</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/05</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR44_TVP17930/2012 isolate serum_44, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442050</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596661:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596662</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/23</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR47_TVP17933/2012 isolate serum_47, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442047</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596662:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596663</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/21</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR48_TVP17934/2012 isolate serum_48, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442044</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596663:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596664</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/12</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR50_TVP18148/2012 isolate serum_50, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442039</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596664:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596665</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/20</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR52_TVP17938/2012 isolate serum_52, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442037</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596665:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596666</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/14</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR53_TVP17939/2012 isolate serum_53, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442033</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596666:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596668</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/03/14</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR60_TVP17946/2012 isolate serum_60, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442027</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596668:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596669</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/19</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR73_TVP17951/2012 isolate serum_73, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442024</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596669:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596670</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/19</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR76_TVP17953/2012 isolate serum_76, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442021</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596670:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596671</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/02/03</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR84_TVP17961/2012 isolate serum_84, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442018</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596671:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579241</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/23</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR8_TVP17894/2012 isolate serum_8, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688441993</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579241:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596672</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/02/03</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR91_TVP17968/2012 isolate serum_91, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442015</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596672:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596673</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/02/29</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR92_TVP17969/2012 isolate serum_92, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442013</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596673:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ596674</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/02/16</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR94_TVP17971/2012 isolate serum_94, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688442011</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ596674:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KJ579242</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012/04/18</collection_date>
+  <infection_date/>
+  <release_date>2015/09/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV-4/MT/BR9_TVP17895/2012 isolate serum_9, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>688441996</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KJ579242:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>GQ398256</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Singapore</country>
+  <host>Homo sapiens</host>
+  <collection_date>2005</collection_date>
+  <infection_date/>
+  <release_date>2010/09/03</release_date>
+  <name>Dengue virus 4 strain DENV-4/SG/06K2270DK1/2005, complete genome</name>
+  <gi>300828755</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|GQ398256:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KU509287</accession>
+  <length>10505</length>
+  <type>4</type>
+  <country>India</country>
+  <host>Homo sapiens</host>
+  <collection_date>2009</collection_date>
+  <infection_date/>
+  <release_date>2017/01/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV4-3274, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>1025727834</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KU509287:5-10168</old_cds_location>
+</Item>
+<Item>
+  <accession>KU509288</accession>
+  <length>10500</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010</collection_date>
+  <infection_date/>
+  <release_date>2017/01/25</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain DENV4-61120, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>1025727836</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KU509288:3-10166</old_cds_location>
+</Item>
+<Item>
+  <accession>KC333651</accession>
+  <length>10574</length>
+  <type>4</type>
+  <country>China</country>
+  <host>Homo sapiens</host>
+  <collection_date>2012</collection_date>
+  <infection_date/>
+  <release_date>2013/04/15</release_date>
+  <name>Dengue virus 4 strain GZ/9809/2012, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>478248149</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KC333651:77-10240</old_cds_location>
+</Item>
+<Item>
+  <accession>KR011349</accession>
+  <length>10664</length>
+  <type>4</type>
+  <country>Philippines</country>
+  <host>Homo sapiens</host>
+  <collection_date>1956/08/28</collection_date>
+  <infection_date/>
+  <release_date>2015/09/08</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H241 polyprotein gene, complete cds</name>
+  <gi>947301730</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KR011349:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>JN559740</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>1982/03/26</collection_date>
+  <infection_date/>
+  <release_date>2011/12/26</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H402276, complete genome</name>
+  <gi>400697669</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN559740:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513330</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/07/17</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H772846, complete genome</name>
+  <gi>418715759</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513330:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513331</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/07/18</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H772852, complete genome</name>
+  <gi>418715766</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513331:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JN559741</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/07/21</collection_date>
+  <infection_date/>
+  <release_date>2011/12/26</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H772854, complete genome</name>
+  <gi>400697678</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JN559741:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513332</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/08/20</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H773583, complete genome</name>
+  <gi>418715768</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513332:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513333</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/08/24</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H774846, complete genome</name>
+  <gi>418715823</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513333:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513334</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/11/10</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H775222, complete genome</name>
+  <gi>418715825</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513334:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513335</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/12</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H778494, complete genome</name>
+  <gi>418715827</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513335:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513336</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/11</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H778504, complete genome</name>
+  <gi>418715833</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513336:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513337</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/20</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H778887, complete genome</name>
+  <gi>418715835</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513337:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513338</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/14</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H779228, complete genome</name>
+  <gi>418715872</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513338:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513339</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/24</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H779652, complete genome</name>
+  <gi>418715874</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513339:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513340</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/11/29</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H780090, complete genome</name>
+  <gi>418715876</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513340:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513341</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2010/11/21</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H780120, complete genome</name>
+  <gi>418715881</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513341:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513342</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/29</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H780556, complete genome</name>
+  <gi>418715883</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513342:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513343</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/29</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H780563, complete genome</name>
+  <gi>418716001</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513343:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513344</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/01/13</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H780571, complete genome</name>
+  <gi>418716003</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513344:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>JQ513345</accession>
+  <length>10604</length>
+  <type>4</type>
+  <country>Brazil</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011/03/18</collection_date>
+  <infection_date/>
+  <release_date>2012/11/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain H781363, complete genome</name>
+  <gi>418716005</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|JQ513345:79-10242</old_cds_location>
+</Item>
+<Item>
+  <accession>KT276273</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Haiti</country>
+  <host>Homo sapiens</host>
+  <collection_date>2014/09/08</collection_date>
+  <infection_date/>
+  <release_date>2015/10/21</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain Haiti/0324/2014, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>939107974</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KT276273:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KU523872</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2015/04/08</collection_date>
+  <infection_date/>
+  <release_date>2016/08/03</release_date>
+  <name>Dengue virus 4 strain ID-CN27-15, complete genome</name>
+  <gi>1048074532</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KU523872:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>KP140942</accession>
+  <length>10565</length>
+  <type>4</type>
+  <country>Haiti</country>
+  <host>Homo sapiens</host>
+  <collection_date>2014/09/11</collection_date>
+  <infection_date/>
+  <release_date>2015/03/17</release_date>
+  <name>Dengue virus 4 strain MRS 6169642904/2014 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>767809895</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KP140942:81-10244</old_cds_location>
+</Item>
+<Item>
+  <accession>KU523871</accession>
+  <length>10589</length>
+  <type>4</type>
+  <country>Philippines</country>
+  <host>Homo sapiens</host>
+  <collection_date>2014/02/13</collection_date>
+  <infection_date/>
+  <release_date>2016/08/03</release_date>
+  <name>Dengue virus 4 strain PH-CN08-14, complete genome</name>
+  <gi>1048074530</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KU523871:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>AY858049</accession>
+  <length>10114</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2004</collection_date>
+  <infection_date/>
+  <release_date>2005/01/17</release_date>
+  <name>Dengue virus 4 strain SW36i polyprotein gene, partial cds</name>
+  <gi>57544909</gi>
+  <genome_region>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY858049:1-9752</old_cds_location>
+</Item>
+<Item>
+  <accession>AY858050</accession>
+  <length>10516</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <host>Homo sapiens</host>
+  <collection_date>2004</collection_date>
+  <infection_date/>
+  <release_date>2005/01/17</release_date>
+  <name>Dengue virus 4 strain SW38i polyprotein gene, partial cds</name>
+  <gi>57544911</gi>
+  <genome_region>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY858050:1-10154</old_cds_location>
+</Item>
+<Item>
+  <accession>KX845005</accession>
+  <length>10647</length>
+  <type>4</type>
+  <country>India</country>
+  <host>Homo sapiens</host>
+  <collection_date>2015</collection_date>
+  <infection_date/>
+  <release_date>2017/04/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus 4 strain UOH_23916, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>1168831275</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KX845005:98-10261</old_cds_location>
+</Item>
+<Item>
+  <accession>HQ332175</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2012/03/19</release_date>
+  <name>Dengue virus 4 strain VE_61013_2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>327344013</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|HQ332175:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>HQ332172</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2012/03/19</release_date>
+  <name>Dengue virus 4 strain VE_61027_2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>327344007</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|HQ332172:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>HQ332176</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2012/03/19</release_date>
+  <name>Dengue virus 4 strain VE_61054_2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>327344015</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|HQ332176:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>HQ332174</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2012/03/19</release_date>
+  <name>Dengue virus 4 strain VE_61073_2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>327344011</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|HQ332174:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>HQ332173</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Venezuela</country>
+  <host>Homo sapiens</host>
+  <collection_date>2007</collection_date>
+  <infection_date/>
+  <release_date>2012/03/19</release_date>
+  <name>Dengue virus 4 strain VE_61110_2007, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>327344009</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|HQ332173:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KT026308</accession>
+  <length>10551</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <host>Homo sapiens</host>
+  <collection_date>2011</collection_date>
+  <infection_date/>
+  <release_date>2015/11/14</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus isolate TH11/1194 polyprotein gene, complete cds</name>
+  <isolation>blood</isolation>
+  <gi>949839864</gi>
+  <genome_region>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KT026308:39-10202</old_cds_location>
+</Item>
+<Item>
+  <accession>KF907503</accession>
+  <length>10648</length>
+  <type>4</type>
+  <country>Senegal</country>
+  <host>Homo sapiens</host>
+  <collection_date>1953</collection_date>
+  <infection_date/>
+  <release_date>2014/03/01</release_date>
+  <genotype>4</genotype>
+  <name>Dengue virus strain Dakar HD 34460, complete genome</name>
+  <isolation>blood</isolation>
+  <gi>586947709</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KF907503:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>KX812530</accession>
+  <length>10648</length>
+  <type>4</type>
+  <country>Indonesia</country>
+  <collection_date>1976</collection_date>
+  <infection_date/>
+  <release_date>2017/06/14</release_date>
+  <genotype>type 4</genotype>
+  <name>Dengue virus strain Indonesia 1976 polyprotein gene, complete cds</name>
+  <gi>1206028582</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|KX812530:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>EF457906</accession>
+  <length>10666</length>
+  <type>4</type>
+  <country>Malaysia</country>
+  <collection_date>1975</collection_date>
+  <infection_date/>
+  <release_date>2007/08/21</release_date>
+  <name>Dengue virus type 4 isolate P75-215, complete genome</name>
+  <gi>148828520</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|EF457906:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>M14931</accession>
+  <length>10648</length>
+  <type>4</type>
+  <collection_date/>
+  <infection_date/>
+  <release_date>1993/08/02</release_date>
+  <name>Dengue virus type 4 polyprotein precursor, gene, complete cds</name>
+  <gi>6978317</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|M14931:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AF375822</accession>
+  <length>10649</length>
+  <type>4</type>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2001/05/31</release_date>
+  <name>Dengue virus type 4 recombinant clone 2A, complete genome</name>
+  <gi>14269097</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AF375822:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AF326826</accession>
+  <length>10618</length>
+  <type>4</type>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2001/01/03</release_date>
+  <name>Dengue virus type 4 recombinant clone 2Adel30, complete sequence</name>
+  <gi>12018171</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AF326826:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AF326825</accession>
+  <length>10649</length>
+  <type>4</type>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2001/01/03</release_date>
+  <name>Dengue virus type 4 recombinant clone rDEN4, complete sequence</name>
+  <gi>12018169</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AF326825:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AF326827</accession>
+  <length>10618</length>
+  <type>4</type>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2001/01/03</release_date>
+  <name>Dengue virus type 4 recombinant clone rDEN4del30, complete sequence</name>
+  <gi>12018173</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AF326827:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AF326573</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country/>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2001/02/05</release_date>
+  <name>Dengue virus type 4 strain 814669, complete genome</name>
+  <gi>12659201</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AF326573:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY947539</accession>
+  <length>10643</length>
+  <type>4</type>
+  <country/>
+  <host>Homo sapiens</host>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2005/03/23</release_date>
+  <name>Dengue virus type 4 strain H241, complete genome</name>
+  <gi>61652904</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY947539:94-10257</old_cds_location>
+</Item>
+<Item>
+  <accession>AY762085</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country/>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2004/10/23</release_date>
+  <name>Dengue virus type 4 strain Singapore 8976/95, complete genome</name>
+  <gi>54287949</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY762085:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY618989</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <collection_date>1997</collection_date>
+  <infection_date/>
+  <release_date>2005/11/18</release_date>
+  <name>Dengue virus type 4 strain ThD4_0017_97, complete genome</name>
+  <gi>53653744</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY618989:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY618991</accession>
+  <length>10650</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <collection_date>1977</collection_date>
+  <infection_date/>
+  <release_date>2005/11/18</release_date>
+  <name>Dengue virus type 4 strain ThD4_0087_77, complete genome</name>
+  <gi>53653748</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY618991:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY618990</accession>
+  <length>10650</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <collection_date>1991</collection_date>
+  <infection_date/>
+  <release_date>2005/11/18</release_date>
+  <name>Dengue virus type 4 strain ThD4_0348_91, complete genome</name>
+  <gi>53653746</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY618990:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY618988</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <collection_date>1997</collection_date>
+  <infection_date/>
+  <release_date>2005/11/18</release_date>
+  <name>Dengue virus type 4 strain ThD4_0476_97, complete genome</name>
+  <gi>53653742</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY618988:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY618992</accession>
+  <length>10649</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <collection_date>2001</collection_date>
+  <infection_date/>
+  <release_date>2005/11/18</release_date>
+  <name>Dengue virus type 4 strain ThD4_0485_01, complete genome</name>
+  <gi>53653750</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY618992:102-10265</old_cds_location>
+</Item>
+<Item>
+  <accession>AY618993</accession>
+  <length>10653</length>
+  <type>4</type>
+  <country>Thailand</country>
+  <collection_date>2000</collection_date>
+  <infection_date/>
+  <release_date>2005/11/18</release_date>
+  <name>Dengue virus type 4 strain ThD4_0734_00, complete genome</name>
+  <gi>53653752</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AY618993:103-10266</old_cds_location>
+</Item>
+<Item>
+  <accession>AF289029</accession>
+  <length>10665</length>
+  <type>4</type>
+  <country>China</country>
+  <collection_date/>
+  <infection_date/>
+  <release_date>2000/11/06</release_date>
+  <name>dengue virus type 4 China Guangzhou B5 strain genomic RNA,complete cds</name>
+  <gi>11096032</gi>
+  <genome_region>
+    <reg>UTR5</reg>
+    <reg>C</reg>
+    <reg>M</reg>
+    <reg>E</reg>
+    <reg>NS1</reg>
+    <reg>NS2A</reg>
+    <reg>NS2B</reg>
+    <reg>NS3</reg>
+    <reg>NS4A</reg>
+    <reg>2K</reg>
+    <reg>NS4B</reg>
+    <reg>NS5</reg>
+    <reg>UTR3</reg>
+  </genome_region>
+  <old_cds_location>gb|AF289029:102-10265</old_cds_location>
+</Item>
+
+</Results>
